@@ -31,5 +31,5 @@ Analyzed revenue trends and business KPIs.
 - Largest drop-off occurred before purchase
 - Revenue concentrated among high-value cohorts
 
-## Dashboard
-(Insert screenshots)
+
+
